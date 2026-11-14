@@ -1,5 +1,5 @@
 # Creatinine Clearance Calculator
-
+![Creatinine Clearance Calculator](calculator-screenshot.png)
 A Java Swing desktop application that calculates creatinine clearance (CrCl) from patient inputs and displays simple colour indicators for selected antibiotic names.
 
 > **Educational project only.** This application is not a medical device and must not be used to make treatment, prescribing, or dosing decisions. Its formula, assumptions, units, and antibiotic thresholds require review against current clinical references before any real-world use.
