@@ -1,0 +1,1 @@
+Add a screenshot of your running calculator to this folder. You can name it calculator-screenshot.png and then link it from README.md.
